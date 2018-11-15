@@ -1,3 +1,8 @@
+## Description
+
+GAS tool for
+- Notify GitHub issue which is labeled specific label to Slack channel.
+
 ## SETUP
 
 ### Installation
@@ -12,7 +17,3 @@ $ yarn clasp create {project name} --rootDir ./src
 ```
 $ yarn clasp push
 ```
-
-### Deploy
-
-TODO:
