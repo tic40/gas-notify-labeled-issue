@@ -18,4 +18,4 @@ $ yarn clasp create {project name} --rootDir ./src
 $ yarn clasp push
 ```
 
-http://blog.hatena.ne.jp/tic40/tic40.hatenablog.com/edit?entry=10257846132670413273
+http://tic40.hatenablog.com/entry/2018/11/16/080000
