@@ -15,7 +15,6 @@ const shouldPost = (payload): boolean => {
   if (new RegExp(`\\b${LABEL_NAME}\\b`).test(payload.label.name) === false) {
     return false
   }
-
   return true
 }
 
